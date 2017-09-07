@@ -2,4 +2,4 @@
 COMP 4711 Lab 1
 
 
-1. Created project
+Displayed a simple list of students.
